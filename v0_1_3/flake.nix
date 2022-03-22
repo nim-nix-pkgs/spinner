@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-spinner-v0_1_3.flake = false;
+  inputs.src-spinner-v0_1_3.ref   = "refs/tags/v0.1.3";
   inputs.src-spinner-v0_1_3.owner = "tonogram";
-  inputs.src-spinner-v0_1_3.ref   = "v0_1_3";
   inputs.src-spinner-v0_1_3.repo  = "spinner";
   inputs.src-spinner-v0_1_3.type  = "github";
   
