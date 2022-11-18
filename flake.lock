@@ -834,11 +834,11 @@
       },
       "locked": {
         "dir": "0_7_10",
-        "lastModified": 1667336873,
-        "narHash": "sha256-+Nf+tgVNepeJGh/3ND6sbzFrFkzGcb5KX2pLGvtoJWo=",
+        "lastModified": 1668752093,
+        "narHash": "sha256-xukxBaNG11aGglBuSbQKHxoGCGgfeCBZGiFkCpHXaCU=",
         "owner": "nim-nix-pkgs",
         "repo": "fidget",
-        "rev": "a5d7e9c84dd1589f4e1078a3267056db08c48475",
+        "rev": "bd88e987645326df49d183d3427306442bad9931",
         "type": "github"
       },
       "original": {
@@ -3265,11 +3265,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667336881,
-        "narHash": "sha256-reopHv+M/0610bvp9HIKcH5gjJGgltlcQTaQlC9OZg4=",
+        "lastModified": 1668752106,
+        "narHash": "sha256-RE9bX+KdVxUgdk4uEHe80bAbw6ePUcpwOZFFYVy5h/c=",
         "owner": "nim-nix-pkgs",
         "repo": "spinner",
-        "rev": "23f804ca858c9eafb73ce7f1f9f91d5ffdc28e76",
+        "rev": "ecbaf1b7e7130ff8386d0fc69a2e907fea9ef1b9",
         "type": "github"
       },
       "original": {
@@ -3294,11 +3294,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1667336881,
-        "narHash": "sha256-reopHv+M/0610bvp9HIKcH5gjJGgltlcQTaQlC9OZg4=",
+        "lastModified": 1668752106,
+        "narHash": "sha256-RE9bX+KdVxUgdk4uEHe80bAbw6ePUcpwOZFFYVy5h/c=",
         "owner": "nim-nix-pkgs",
         "repo": "spinner",
-        "rev": "23f804ca858c9eafb73ce7f1f9f91d5ffdc28e76",
+        "rev": "ecbaf1b7e7130ff8386d0fc69a2e907fea9ef1b9",
         "type": "github"
       },
       "original": {
@@ -3323,11 +3323,11 @@
       },
       "locked": {
         "dir": "v0_1_1",
-        "lastModified": 1667336881,
-        "narHash": "sha256-reopHv+M/0610bvp9HIKcH5gjJGgltlcQTaQlC9OZg4=",
+        "lastModified": 1668752106,
+        "narHash": "sha256-RE9bX+KdVxUgdk4uEHe80bAbw6ePUcpwOZFFYVy5h/c=",
         "owner": "nim-nix-pkgs",
         "repo": "spinner",
-        "rev": "23f804ca858c9eafb73ce7f1f9f91d5ffdc28e76",
+        "rev": "ecbaf1b7e7130ff8386d0fc69a2e907fea9ef1b9",
         "type": "github"
       },
       "original": {
@@ -3352,11 +3352,11 @@
       },
       "locked": {
         "dir": "v0_1_2",
-        "lastModified": 1667336881,
-        "narHash": "sha256-reopHv+M/0610bvp9HIKcH5gjJGgltlcQTaQlC9OZg4=",
+        "lastModified": 1668752106,
+        "narHash": "sha256-RE9bX+KdVxUgdk4uEHe80bAbw6ePUcpwOZFFYVy5h/c=",
         "owner": "nim-nix-pkgs",
         "repo": "spinner",
-        "rev": "23f804ca858c9eafb73ce7f1f9f91d5ffdc28e76",
+        "rev": "ecbaf1b7e7130ff8386d0fc69a2e907fea9ef1b9",
         "type": "github"
       },
       "original": {
@@ -3381,11 +3381,11 @@
       },
       "locked": {
         "dir": "v0_1_3",
-        "lastModified": 1667336881,
-        "narHash": "sha256-reopHv+M/0610bvp9HIKcH5gjJGgltlcQTaQlC9OZg4=",
+        "lastModified": 1668752106,
+        "narHash": "sha256-RE9bX+KdVxUgdk4uEHe80bAbw6ePUcpwOZFFYVy5h/c=",
         "owner": "nim-nix-pkgs",
         "repo": "spinner",
-        "rev": "23f804ca858c9eafb73ce7f1f9f91d5ffdc28e76",
+        "rev": "ecbaf1b7e7130ff8386d0fc69a2e907fea9ef1b9",
         "type": "github"
       },
       "original": {
@@ -3410,11 +3410,11 @@
       },
       "locked": {
         "dir": "v0_2_0",
-        "lastModified": 1667336881,
-        "narHash": "sha256-reopHv+M/0610bvp9HIKcH5gjJGgltlcQTaQlC9OZg4=",
+        "lastModified": 1668752106,
+        "narHash": "sha256-RE9bX+KdVxUgdk4uEHe80bAbw6ePUcpwOZFFYVy5h/c=",
         "owner": "nim-nix-pkgs",
         "repo": "spinner",
-        "rev": "23f804ca858c9eafb73ce7f1f9f91d5ffdc28e76",
+        "rev": "ecbaf1b7e7130ff8386d0fc69a2e907fea9ef1b9",
         "type": "github"
       },
       "original": {
@@ -3439,11 +3439,11 @@
       },
       "locked": {
         "dir": "v0_2_1",
-        "lastModified": 1667336881,
-        "narHash": "sha256-reopHv+M/0610bvp9HIKcH5gjJGgltlcQTaQlC9OZg4=",
+        "lastModified": 1668752106,
+        "narHash": "sha256-RE9bX+KdVxUgdk4uEHe80bAbw6ePUcpwOZFFYVy5h/c=",
         "owner": "nim-nix-pkgs",
         "repo": "spinner",
-        "rev": "23f804ca858c9eafb73ce7f1f9f91d5ffdc28e76",
+        "rev": "ecbaf1b7e7130ff8386d0fc69a2e907fea9ef1b9",
         "type": "github"
       },
       "original": {
