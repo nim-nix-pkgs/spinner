@@ -214,11 +214,11 @@
       },
       "locked": {
         "dir": "0_7_10",
-        "lastModified": 1669433946,
-        "narHash": "sha256-ZIYv4c+fC6Gqn2PeGJG9VYbWs+D77oYEUb0+oKCKulo=",
+        "lastModified": 1669440487,
+        "narHash": "sha256-dx0K28V5pP8mxqxi4rr9zko72iCquyUkJFgakyTNPnk=",
         "owner": "nim-nix-pkgs",
         "repo": "fidget",
-        "rev": "2c0c8dc693c478018c4e17325671352df2e5533c",
+        "rev": "6f2e58c2971bb112cbffcd4649cb69c435f6f708",
         "type": "github"
       },
       "original": {
